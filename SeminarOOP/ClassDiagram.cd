@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BinaryInsertionSort">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Sort" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="3" />
+        <Point X="8.25" Y="2.31" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BinaryInsertionSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BubbleSort">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BubbleSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CountingSort">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CountingSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeapSort">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABEAAAAAAAAAAAAACAIAAAAgAAAAQAAAAAA=</HashCode>
+      <FileName>HeapSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InsertionSort">
+    <Position X="12.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>InsertionSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterchangeSort">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>InterchangeSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MergeSort">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAAOAAAAUAgAAAAQAAAAAA=</HashCode>
+      <FileName>MergeSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuickSort">
+    <Position X="13" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAABAAAAAAAAAAAAAACAAAAAAgACAAQAAAAAA=</HashCode>
+      <FileName>QuickSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadixSort">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>RadixSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectionSort">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SelectionSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShakerSort">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ShakerSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShellSort">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ShellSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sort">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEAABAAAAAAAEAQAAAIAAAQBYABAAAIQAAAAAA=</HashCode>
+      <FileName>Sort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
